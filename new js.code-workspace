@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../_full power stack_"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "new js"
+	}
+}
